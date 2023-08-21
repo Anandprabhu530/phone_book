@@ -1,8 +1,32 @@
-# React + Vite
+**Phone Book in React**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a projects that is done by me to understand the core concepts of React such as components, Hooks etc..
 
-Currently, two official plugins are available:
+I have used Express.js for backend and Chance.js to generate Dummy data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Also vite is the tool used for react setup.
+
+Step 1:
+
+```
+git clone https://github.com/Anandprabhu530/phone_book.git
+```
+
+Step 2: Install Dependencies
+
+```
+npm install
+```
+
+Step 3: Start the Project
+
+```
+npm run dev
+```
+
+Step 4: Start the express server
+
+```
+cd server
+node index.js
+```
