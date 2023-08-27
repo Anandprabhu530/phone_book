@@ -1,6 +1,6 @@
 **Phone Book in React**
 
-This is a projects that is done by me to understand the core concepts of React such as components, Hooks etc..
+This is a project that is done by me to understand the core concepts of React such as components, Hooks etc..
 
 I have used Express.js for backend and Chance.js to generate Dummy data.
 
